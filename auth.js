@@ -1,6 +1,6 @@
 class Auth {
     constructor() {
-        this.clientId = 'ignacio10000'; // Reemplaza con tu Client ID de GitHub
+        this.clientId = 'Ov23lijzmIMJ4T5IvXQm'; // Reemplaza con tu Client ID de GitHub
         this.redirectUri = window.location.origin + '/auth/callback.html';
         this.loginBtn = document.getElementById('login-btn');
         this.logoutBtn = document.getElementById('logout-btn');
